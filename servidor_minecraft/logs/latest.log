@@ -511,3 +511,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 18:26:11.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Survival Mode]
 [10Dec2024 18:31:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Alex's Caves]
 [10Dec2024 18:32:03.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Once Upon a Cave]
+[10Dec2024 18:36:10.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 blew up
+[10Dec2024 18:36:10.170] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:36:25.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2682.500000, -4.500000, -3308.500000]
+[10Dec2024 18:38:22.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[10Dec2024 18:41:59.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:41:59.125] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
