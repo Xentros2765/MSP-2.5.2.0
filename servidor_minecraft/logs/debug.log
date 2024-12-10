@@ -8261,3 +8261,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 16:40:49.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Siren
 [10Dec2024 16:40:49.519] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:356, y:63, z:-2322, dim:minecraft:overworld]
 [10Dec2024 16:40:49.533] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 16:41:25.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:41:25.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 16:46:25.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:46:25.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 16:48:07.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Diamonds!]
+[10Dec2024 16:48:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]

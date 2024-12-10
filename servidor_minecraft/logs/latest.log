@@ -448,3 +448,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 16:37:44.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Sweet Dreams]
 [10Dec2024 16:40:49.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Siren
 [10Dec2024 16:40:49.533] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 16:48:07.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Diamonds!]
+[10Dec2024 16:48:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]
