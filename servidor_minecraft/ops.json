@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "87f5f3c9-812b-3e00-8781-5744df710cb7",
+    "name": "Juan123",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "f735af96-f7b9-3ef9-b573-41b009273240",
     "name": "xentros10000",
     "level": 4,

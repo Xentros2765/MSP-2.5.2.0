@@ -431,3 +431,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 16:16:57.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [It Belongs in a Museum]
 [10Dec2024 16:18:27.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Monster Hunter]
 [10Dec2024 16:18:27.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Strange Grave Dust]
+[10Dec2024 16:20:53.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Mine? Mine? Mine?]
+[10Dec2024 16:21:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Skeleton
+[10Dec2024 16:21:37.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Your First Grave]
+[10Dec2024 16:21:37.649] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 16:21:41.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Most Useful Key]
+[10Dec2024 16:21:45.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Knowledge of Death]
+[10Dec2024 16:21:45.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Here They Come]
+[10Dec2024 16:29:53.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Juan123 a server operator
