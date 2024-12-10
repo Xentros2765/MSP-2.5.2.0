@@ -457,3 +457,16 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 17:14:09.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4232989762122088
 [10Dec2024 17:14:09.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4332989312670179
 [10Dec2024 17:14:09.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4332989312670179
+[10Dec2024 17:33:15.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved too quickly! -3.6846832461080794,-9.664049547014557,-0.058043669442213286
+[10Dec2024 17:33:15.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[10Dec2024 17:35:45.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Gone Bananas!]
+[10Dec2024 17:39:34.186] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=109, y=-40, z=-74}
+[10Dec2024 17:39:34.188] [Worker-Main-36/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=111, y=-40, z=-74}
+[10Dec2024 17:40:25.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 17:40:25.834] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 17:40:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Forbidden Fruit]
+[10Dec2024 17:41:05.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2758.500000, 57.500000, -3265.500000]
+[10Dec2024 17:41:11.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Chain Death]
+[10Dec2024 17:41:11.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 17:41:11.340] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 17:41:44.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2759.500000, 81.500000, -3273.500000]

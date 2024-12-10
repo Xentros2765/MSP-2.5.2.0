@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "vinery:main/forbidden_fruit": {
+    "criteria": {
+      "apple": "2024-12-10 17:40:41 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2024-12-10 16:03:56 +0000"
@@ -264,6 +270,12 @@
     },
     "done": true
   },
+  "occultism:recipes/misc/crafting/magic_lamp_empty": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-10 16:59:46 +0000"
@@ -303,6 +315,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-10 16:33:10 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/combustion_table": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
     },
     "done": true
   },
@@ -539,6 +557,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-10 17:40:41 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2024-12-10 16:19:46 +0000"
@@ -683,6 +707,12 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/silver_dust_from_ingot": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-10 16:58:53 +0000"
@@ -807,6 +837,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/lens_frame": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
     },
     "done": true
   },
@@ -939,6 +975,12 @@
       "has_hoe": "2024-12-10 16:03:56 +0000",
       "has_boots": "2024-12-10 16:03:56 +0000",
       "has_pickaxe": "2024-12-10 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
     },
     "done": true
   },
@@ -1096,6 +1138,12 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-10 16:18:27 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/tools/spectre_flare": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
     },
     "done": true
   },
@@ -1441,6 +1489,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-10 16:59:46 +0000"
@@ -1492,6 +1546,12 @@
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/building_blocks/crafting/silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
     },
     "done": true
   },
@@ -1552,6 +1612,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 17:40:19 +0000"
     },
     "done": true
   },
@@ -1642,6 +1708,12 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2024-12-10 17:23:30 +0000"
     },
     "done": true
   },
@@ -1741,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 17:40:19 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/double_hook": {
     "criteria": {
       "has_items": "2024-12-10 16:03:56 +0000"
@@ -1753,6 +1831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-12-10 17:40:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-10 16:12:20 +0000"
@@ -1762,6 +1846,12 @@
   "alexscaves:alexscaves/cave_tablet": {
     "criteria": {
       "cave_tablet": "2024-12-10 16:16:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 17:41:11 +0000"
     },
     "done": true
   },
@@ -1975,6 +2065,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2024-12-10 17:35:45 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
     "criteria": {
       "has_diamond": "2024-12-10 16:48:07 +0000"
@@ -2168,6 +2264,12 @@
     },
     "done": true
   },
+  "uniquedungeons:find_desert_dungeon": {
+    "criteria": {
+      "requirement": "2024-12-10 17:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-10 16:19:00 +0000"
@@ -2228,6 +2330,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-10 17:26:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-10 16:07:08 +0000",
@@ -2236,11 +2344,13 @@
       "minecraft:sunflower_plains": "2024-12-10 17:04:15 +0000",
       "minecraft:beach": "2024-12-10 16:12:34 +0000",
       "minecraft:dark_forest": "2024-12-10 16:03:58 +0000",
+      "minecraft:sparse_jungle": "2024-12-10 17:33:12 +0000",
       "minecraft:lukewarm_ocean": "2024-12-10 17:14:37 +0000",
       "minecraft:river": "2024-12-10 16:09:25 +0000",
       "minecraft:snowy_plains": "2024-12-10 16:24:45 +0000",
       "minecraft:snowy_taiga": "2024-12-10 16:08:55 +0000",
       "minecraft:forest": "2024-12-10 16:31:47 +0000",
+      "minecraft:jungle": "2024-12-10 17:31:51 +0000",
       "minecraft:ocean": "2024-12-10 17:13:11 +0000",
       "minecraft:snowy_beach": "2024-12-10 16:12:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-10 17:15:18 +0000",
