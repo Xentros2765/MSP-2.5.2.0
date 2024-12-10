@@ -8267,3 +8267,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 16:46:25.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [10Dec2024 16:48:07.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Diamonds!]
 [10Dec2024 16:48:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]
+[10Dec2024 16:51:25.904] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:51:25.919] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 16:51:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Book of Monsters]
+[10Dec2024 16:54:01.270] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[10Dec2024 16:56:25.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 16:56:25.921] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 16:59:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Stone Age]
+[10Dec2024 17:01:25.909] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 17:01:25.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 17:04:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ashes 'n Bones]
+[10Dec2024 17:06:25.912] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 17:06:25.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 17:11:25.911] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 17:11:25.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 17:14:09.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4232989762122088
+[10Dec2024 17:14:09.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4332989312670179
+[10Dec2024 17:14:09.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4332989312670179
+[10Dec2024 17:16:25.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 17:16:25.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 17:16:49.551] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[10Dec2024 17:16:49.728] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Dec2024 17:18:49.223] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Dec2024 17:19:14.718] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Dec2024 17:19:31.574] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Dec2024 17:19:55.107] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Dec2024 17:21:25.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 17:21:25.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

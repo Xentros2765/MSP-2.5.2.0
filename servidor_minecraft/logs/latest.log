@@ -450,3 +450,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 16:40:49.533] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [10Dec2024 16:48:07.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Diamonds!]
 [10Dec2024 16:48:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Suit Up]
+[10Dec2024 16:51:35.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Book of Monsters]
+[10Dec2024 16:54:01.270] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[10Dec2024 16:59:46.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Stone Age]
+[10Dec2024 17:04:19.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ashes 'n Bones]
+[10Dec2024 17:14:09.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4232989762122088
+[10Dec2024 17:14:09.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4332989312670179
+[10Dec2024 17:14:09.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Juan123) moved wrongly! 0.4332989312670179

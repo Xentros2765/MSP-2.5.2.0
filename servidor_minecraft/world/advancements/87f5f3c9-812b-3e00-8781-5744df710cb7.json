@@ -5,6 +5,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_crimson_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_jungle_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/sausage": {
+    "criteria": {
+      "has_cooked_beef": "2024-12-10 17:08:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-12-10 16:19:46 +0000"
@@ -14,6 +56,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 16:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
     },
     "done": true
   },
@@ -47,9 +95,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-10 17:20:48 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/combat/crafting/butcher_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
     },
     "done": true
   },
@@ -89,6 +155,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 16:16:49 +0000"
@@ -119,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "uniquedungeons:ancient_note": {
     "criteria": {
       "requirement": "2024-12-10 16:09:29 +0000"
@@ -143,6 +233,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-10 16:33:13 +0000"
@@ -153,6 +255,18 @@
     "criteria": {
       "has_fishing_rod": "2024-12-10 16:03:56 +0000",
       "has_fillet_knife": "2024-12-10 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
     },
     "done": true
   },
@@ -192,9 +306,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2024-12-10 16:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
     },
     "done": true
   },
@@ -217,9 +343,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-10 16:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
     },
     "done": true
   },
@@ -269,6 +407,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-10 16:19:00 +0000"
@@ -278,6 +422,12 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
     },
     "done": true
   },
@@ -305,6 +455,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-10 17:20:48 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/grapevine_pot": {
     "criteria": {
       "has_spruce_planks": "2024-12-10 16:33:10 +0000"
@@ -314,6 +470,12 @@
   "create:recipes/misc/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
     },
     "done": true
   },
@@ -329,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-10 16:21:45 +0000"
@@ -341,9 +509,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/whitelist_module": {
     "criteria": {
       "has_iron": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 16:47:40 +0000"
     },
     "done": true
   },
@@ -359,9 +551,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2024-12-10 16:21:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_acacia_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -473,6 +683,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2024-12-10 16:34:17 +0000"
@@ -485,9 +701,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-10 16:46:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-10 16:12:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
     },
     "done": true
   },
@@ -539,6 +773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/comb": {
     "criteria": {
       "has_item": "2024-12-10 16:34:17 +0000"
@@ -561,6 +801,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-10 16:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
     },
     "done": true
   },
@@ -594,9 +840,39 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-10 16:51:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-12-10 16:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
     },
     "done": true
   },
@@ -606,15 +882,46 @@
     },
     "done": true
   },
+  "vinery:recipes/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000",
+      "has_the_recipe": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 16:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 16:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
     },
     "done": true
   },
@@ -647,9 +954,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 16:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -658,6 +977,18 @@
       "brewery:hops": "2024-12-10 16:10:25 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
@@ -668,6 +999,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2024-12-10 17:06:26 +0000"
     },
     "done": true
   },
@@ -713,9 +1050,21 @@
     },
     "done": true
   },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-10 16:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -756,9 +1105,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/emerald_dust_from_gem": {
+    "criteria": {
+      "has_emerald_gem": "2024-12-10 17:15:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
       "has_item": "2024-12-10 16:19:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -768,15 +1147,39 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2024-12-10 16:34:17 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/gold_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-10 16:16:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
     },
     "done": true
   },
@@ -804,6 +1207,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-10 16:03:56 +0000"
@@ -822,9 +1231,21 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -840,6 +1261,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/root": {
     "criteria": {
       "auto": "2024-12-10 16:03:58 +0000"
@@ -849,6 +1282,12 @@
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-10 16:46:33 +0000"
     },
     "done": true
   },
@@ -870,9 +1309,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/dog_food": {
     "criteria": {
       "has_any_ingredient": "2024-12-10 16:19:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
     },
     "done": true
   },
@@ -900,15 +1351,45 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2024-12-10 16:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-10 16:12:59 +0000"
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2024-12-10 16:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-10 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
     },
     "done": true
   },
@@ -939,6 +1420,36 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
     },
     "done": true
   },
@@ -978,9 +1489,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-10 16:48:07 +0000"
     },
     "done": true
   },
@@ -1044,6 +1573,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/gold_hook": {
     "criteria": {
       "has_items": "2024-12-10 16:03:56 +0000"
@@ -1080,15 +1615,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-10 17:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-10 17:09:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/spruce_fish_mount": {
     "criteria": {
       "has_items": "2024-12-10 16:03:56 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-10 16:19:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_lattice": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -1110,9 +1681,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -1176,6 +1765,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2024-12-10 16:51:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-10 16:34:17 +0000"
@@ -1191,6 +1798,18 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-10 16:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
     },
     "done": true
   },
@@ -1212,15 +1831,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-10 17:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-10 16:33:10 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
     },
     "done": true
   },
@@ -1233,6 +1870,12 @@
   "vinery:main/root": {
     "criteria": {
       "seeds": "2024-12-10 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
     },
     "done": true
   },
@@ -1272,6 +1915,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/diamond_dust_from_gem": {
+    "criteria": {
+      "has_diamond_gem": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
@@ -1296,6 +1951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2024-12-10 17:12:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2024-12-10 16:16:55 +0000"
@@ -1305,6 +1966,18 @@
   "aquaculture:recipes/aquaculture/redstone_hook": {
     "criteria": {
       "has_items": "2024-12-10 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
     },
     "done": true
   },
@@ -1321,6 +1994,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 16:46:33 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/bobber": {
     "criteria": {
       "has_items": "2024-12-10 16:03:56 +0000"
@@ -1330,6 +2009,12 @@
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 16:16:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
     },
     "done": true
   },
@@ -1357,6 +2042,18 @@
     },
     "done": true
   },
+  "vinery:recipes/dark_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-10 16:03:56 +0000"
@@ -1381,9 +2078,27 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-10 16:46:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-10 17:08:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -1396,6 +2111,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-10 16:33:10 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-10 17:01:50 +0000"
     },
     "done": true
   },
@@ -1417,6 +2138,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/oak_wine_rack_big": {
+    "criteria": {
+      "has_oak_planks": "2024-12-10 17:08:31 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-10 16:19:46 +0000"
@@ -1435,9 +2174,21 @@
     },
     "done": true
   },
+  "vinery:recipes/oak_wine_rack_small": {
+    "criteria": {
+      "has_oak_planks": "2024-12-10 17:08:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-10 16:19:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
     },
     "done": true
   },
@@ -1450,6 +2201,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 17:08:31 +0000"
     },
     "done": true
   },
@@ -1474,14 +2231,20 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-10 16:07:08 +0000",
+      "minecraft:deep_ocean": "2024-12-10 17:13:22 +0000",
       "minecraft:frozen_river": "2024-12-10 16:08:58 +0000",
+      "minecraft:sunflower_plains": "2024-12-10 17:04:15 +0000",
       "minecraft:beach": "2024-12-10 16:12:34 +0000",
       "minecraft:dark_forest": "2024-12-10 16:03:58 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-10 17:14:37 +0000",
       "minecraft:river": "2024-12-10 16:09:25 +0000",
       "minecraft:snowy_plains": "2024-12-10 16:24:45 +0000",
       "minecraft:snowy_taiga": "2024-12-10 16:08:55 +0000",
       "minecraft:forest": "2024-12-10 16:31:47 +0000",
+      "minecraft:ocean": "2024-12-10 17:13:11 +0000",
       "minecraft:snowy_beach": "2024-12-10 16:12:32 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-10 17:15:18 +0000",
+      "minecraft:savanna": "2024-12-10 17:16:26 +0000",
       "minecraft:plains": "2024-12-10 16:32:45 +0000"
     },
     "done": false
@@ -1492,9 +2255,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/iron_dust_from_ingot": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 16:34:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-10 16:47:40 +0000"
     },
     "done": true
   },
@@ -1504,8 +2279,21 @@
     },
     "done": true
   },
+  "brewery:recipes/rope": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "beef": "2024-12-10 16:47:37 +0000",
       "bread": "2024-12-10 16:09:05 +0000",
       "rotten_flesh": "2024-12-10 16:35:41 +0000"
     },
@@ -1529,9 +2317,21 @@
     },
     "done": true
   },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2024-12-10 16:59:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-10 16:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-10 16:59:46 +0000"
     },
     "done": true
   },
@@ -1539,6 +2339,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-10 16:03:56 +0000",
       "has_fillet_knife": "2024-12-10 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
     },
     "done": true
   },
@@ -1554,9 +2360,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 17:04:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-10 16:19:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-10 16:48:07 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2024-12-10 16:50:05 +0000"
     },
     "done": true
   },
@@ -1575,6 +2399,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-10 16:33:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2024-12-10 16:58:53 +0000"
     },
     "done": true
   },
@@ -1605,6 +2435,18 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 16:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-10 16:46:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-10 17:01:50 +0000"
     },
     "done": true
   },
