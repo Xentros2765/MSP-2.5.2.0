@@ -9611,3 +9611,28 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 19:01:48.825] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkoAmerica123 lost connection: Timed out
 [10Dec2024 19:01:48.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 left the game
 [10Dec2024 19:02:21.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2863.500000, 99.500000, -3295.500000]
+[10Dec2024 19:04:07.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[10Dec2024 19:04:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[10Dec2024 19:04:31.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.84.106.96:58308] logged in with entity id 95702 at (-2873.25, 99.65, -3262.807087867566)
+[10Dec2024 19:04:31.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[10Dec2024 19:04:32.650] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[10Dec2024 19:04:32.650] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[10Dec2024 19:04:32.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Mysterious Gift]
+[10Dec2024 19:04:37.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5283ms or 105 ticks behind
+[10Dec2024 19:06:26.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Ambush]
+[10Dec2024 19:07:36.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned into KFC by Fire Dragon
+[10Dec2024 19:07:36.836] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 19:07:49.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [A Fast Comeback]
+[10Dec2024 19:07:55.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Michal'/99503, l='ServerLevel[world]', x=-3199.50, y=76.00, z=-3682.35] died: Michal burned to death
+[10Dec2024 19:08:15.481] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Taťjana'/99545, l='ServerLevel[world]', x=-3224.86, y=74.00, z=-3694.52] died: Taťjana burned to death
+[10Dec2024 19:09:01.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Jiří'/99580, l='ServerLevel[world]', x=-3189.50, y=73.00, z=-3716.42] died: Jiří burned to death
+[10Dec2024 19:09:32.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DarkoAmerica123[/100.90.76.75:62057] logged in with entity id 101306 at (-131.5, 57.0625, -90.5)
+[10Dec2024 19:09:32.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 joined the game
+[10Dec2024 19:09:32.212] [Server thread/INFO] [Jade/]: Syncing config to DarkoAmerica123 (28d43af0-d6bd-338d-a18f-8ba10e1f51ab)
+[10Dec2024 19:09:43.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 has reached the goal [Chain Death]
+[10Dec2024 19:09:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 drowned
+[10Dec2024 19:09:43.087] [Server thread/INFO] [tombstone/]: The player DarkoAmerica123 has successfully been saved
+[10Dec2024 19:10:24.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[10Dec2024 19:10:24.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[10Dec2024 19:12:20.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DarkoAmerica123 lost connection: Disconnected
+[10Dec2024 19:12:20.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DarkoAmerica123 left the game

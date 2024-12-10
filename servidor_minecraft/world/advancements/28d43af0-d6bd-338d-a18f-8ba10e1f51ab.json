@@ -443,9 +443,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "tombstone:adventure/first_grave": {
     "criteria": {
-      "has_leather": "2024-12-10 19:00:26 +0000"
+      "coded_trigger": "2024-12-10 18:58:19 +0000"
     },
     "done": true
   },
@@ -455,9 +455,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_chestplate": {
+  "tombstone:adventure/enchant_grave_key": {
     "criteria": {
-      "has_leather": "2024-12-10 19:00:26 +0000"
+      "has_upgraded_grave_key": "2024-12-10 18:58:27 +0000"
     },
     "done": true
   },
@@ -467,21 +467,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "has_leather": "2024-12-10 19:00:26 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 19:01:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2024-12-10 19:00:26 +0000"
+      "killed_something": "2024-12-10 19:00:04 +0000"
     },
     "done": true
   },
@@ -491,39 +479,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/first_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 18:58:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2024-12-10 19:00:26 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2024-12-10 19:00:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2024-12-10 19:00:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/teleport_to_grave": {
-    "criteria": {
-      "coded_trigger": "2024-12-10 19:01:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2024-12-10 19:00:26 +0000"
     },
     "done": true
   },
@@ -539,6 +497,54 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 19:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-10 19:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-10 19:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-10 19:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-10 19:00:26 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-10 19:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-10 19:00:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-10 19:00:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2024-12-10 19:00:26 +0000"
@@ -551,27 +557,93 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/beef_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-10 19:00:05 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-10 19:00:26 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/enchant_grave_key": {
+  "tombstone:adventure/first_knowledge": {
     "criteria": {
-      "has_upgraded_grave_key": "2024-12-10 18:58:27 +0000"
+      "coded_trigger": "2024-12-10 19:01:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "tombstone:adventure/teleport_to_grave": {
     "criteria": {
-      "has_beef": "2024-12-10 19:00:05 +0000"
+      "coded_trigger": "2024-12-10 19:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-10 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-10 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2024-12-10 19:10:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2024-12-10 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/stackable_log": {
+    "criteria": {
+      "has_oak_log": "2024-12-10 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2024-12-10 19:11:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-10 19:09:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-10 19:11:52 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_stem": {
+    "criteria": {
+      "has_oak_log": "2024-12-10 19:10:53 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/spirit_fire/spirit_fire/otherworld_sapling_natural": {
+    "criteria": {
+      "has_oak_sapling": "2024-12-10 19:11:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-10 19:11:52 +0000"
     },
     "done": true
   },
