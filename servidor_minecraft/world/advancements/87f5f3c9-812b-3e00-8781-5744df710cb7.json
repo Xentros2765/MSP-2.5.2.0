@@ -629,6 +629,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-10 17:47:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
     "criteria": {
       "has_item": "2024-12-10 16:19:46 +0000"
@@ -1639,6 +1645,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-10 17:47:45 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2024-12-10 16:59:46 +0000"
@@ -2087,6 +2099,12 @@
     "criteria": {
       "has_fishing_rod": "2024-12-10 16:03:56 +0000",
       "has_fillet_knife": "2024-12-10 16:03:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-12-10 17:47:45 +0000"
     },
     "done": true
   },

@@ -470,3 +470,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 17:41:11.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
 [10Dec2024 17:41:11.340] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [10Dec2024 17:41:44.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2759.500000, 81.500000, -3273.500000]
+[10Dec2024 17:42:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 17:42:00.843] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 17:42:24.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2747.500000, 78.500000, -3289.500000]
+[10Dec2024 17:43:22.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
+[10Dec2024 17:47:12.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 17:47:12.788] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 17:47:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2755.500000, 70.500000, -3279.500000]
+[10Dec2024 17:48:42.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 17:48:42.627] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 17:48:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2764.500000, 51.500000, -3258.500000]
