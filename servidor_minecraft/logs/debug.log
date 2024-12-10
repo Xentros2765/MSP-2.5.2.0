@@ -8348,3 +8348,29 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 17:58:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Cannibal]
 [10Dec2024 18:01:28.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Dec2024 18:01:28.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:06:28.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:06:28.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:11:28.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:11:28.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:12:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:12:22.478] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-2844, y:30, z:-3259, dim:minecraft:overworld]
+[10Dec2024 18:12:22.479] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:12:29.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2842.500000, 27.500000, -3257.500000]
+[10Dec2024 18:14:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:14:33.328] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-2844, y:21, z:-3273, dim:minecraft:overworld]
+[10Dec2024 18:14:33.329] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:14:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2836.500000, 21.500000, -3269.500000]
+[10Dec2024 18:16:28.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:16:28.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:16:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:16:28.677] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:16:35.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2838.500000, 21.500000, -3272.500000]
+[10Dec2024 18:18:48.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:18:48.884] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:18:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2834.500000, 21.500000, -3278.500000]
+[10Dec2024 18:21:28.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Dec2024 18:21:28.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Dec2024 18:21:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[10Dec2024 18:22:10.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:22:10.589] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:22:19.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2839.500000, 21.500000, -3272.500000]

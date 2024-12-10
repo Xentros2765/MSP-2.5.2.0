@@ -490,3 +490,19 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [10Dec2024 17:57:03.053] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [10Dec2024 17:57:11.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2763.500000, 51.500000, -3255.500000]
 [10Dec2024 17:58:58.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Cannibal]
+[10Dec2024 18:12:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:12:22.479] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:12:29.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2842.500000, 27.500000, -3257.500000]
+[10Dec2024 18:14:33.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:14:33.329] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:14:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2836.500000, 21.500000, -3269.500000]
+[10Dec2024 18:16:28.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:16:28.677] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:16:35.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2838.500000, 21.500000, -3272.500000]
+[10Dec2024 18:18:48.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:18:48.884] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:18:55.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2834.500000, 21.500000, -3278.500000]
+[10Dec2024 18:21:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Applied effect Night Vision to Juan123]
+[10Dec2024 18:22:10.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was pricked to death
+[10Dec2024 18:22:10.589] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[10Dec2024 18:22:19.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -2839.500000, 21.500000, -3272.500000]

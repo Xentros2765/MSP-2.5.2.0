@@ -395,6 +395,12 @@
     },
     "done": false
   },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-10 18:13:12 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/food/crafting/demons_dream_essence_from_seeds": {
     "criteria": {
       "has_datura": "2024-12-10 16:46:03 +0000"
@@ -1939,6 +1945,12 @@
     },
     "done": true
   },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2024-12-10 18:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-10 17:11:53 +0000"
@@ -2129,6 +2141,12 @@
   "galosphere:recipes/decorations/gilded_beads": {
     "criteria": {
       "has_gold_ingot": "2024-12-10 16:16:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-10 18:13:12 +0000"
     },
     "done": true
   },
@@ -2429,6 +2447,7 @@
     "criteria": {
       "beef": "2024-12-10 16:47:37 +0000",
       "bread": "2024-12-10 16:09:05 +0000",
+      "golden_apple": "2024-12-10 18:05:55 +0000",
       "rotten_flesh": "2024-12-10 16:35:41 +0000"
     },
     "done": false
@@ -2491,6 +2510,12 @@
   "occultism:recipes/crushing/crushing/copper_dust_from_ingot": {
     "criteria": {
       "has_copper_ingot": "2024-12-10 16:19:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-10 18:13:12 +0000"
     },
     "done": true
   },
