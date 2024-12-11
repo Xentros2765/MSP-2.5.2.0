@@ -400,6 +400,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2024-12-10 16:47:37 +0000",
+      "porkchop": "2024-12-11 19:55:26 +0000",
       "bread": "2024-12-10 16:09:05 +0000",
       "golden_apple": "2024-12-10 18:05:55 +0000",
       "rotten_flesh": "2024-12-10 16:35:41 +0000"
@@ -769,6 +770,7 @@
       "minecraft:creeper": "2024-12-11 17:46:38 +0000",
       "minecraft:witch": "2024-12-11 18:25:36 +0000",
       "minecraft:husk": "2024-12-10 18:31:50 +0000",
+      "minecraft:cave_spider": "2024-12-11 20:12:12 +0000",
       "minecraft:enderman": "2024-12-10 16:20:05 +0000",
       "minecraft:zombie": "2024-12-10 16:18:27 +0000",
       "minecraft:drowned": "2024-12-10 16:19:45 +0000"
@@ -3590,6 +3592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-11 20:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-11 19:25:35 +0000"
@@ -3602,6 +3610,30 @@
     },
     "done": true
   },
+  "occultism:recipes/crushing/crushing/iron_dust_from_raw": {
+    "criteria": {
+      "has_raw_iron": "2024-12-11 20:08:31 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-11 20:10:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-11 19:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-11 20:08:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-11 19:25:35 +0000"
@@ -3611,6 +3643,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-11 19:25:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-11 19:59:05 +0000"
     },
     "done": true
   },
@@ -3635,6 +3673,18 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-11 19:25:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-11 19:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-11 20:08:31 +0000"
     },
     "done": true
   },

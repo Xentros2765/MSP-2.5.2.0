@@ -708,3 +708,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Dec2024 19:49:33.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.3125139490202855
 [11Dec2024 19:49:33.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.361849943928064
 [11Dec2024 19:49:33.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.6894455528054095
+[11Dec2024 19:54:37.956] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 19:54:37.957] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 20:10:49.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [First Age]
