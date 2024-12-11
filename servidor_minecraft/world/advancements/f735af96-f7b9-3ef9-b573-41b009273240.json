@@ -404,7 +404,8 @@
       "minecraft:spider": "2024-12-10 01:19:17 +0000",
       "minecraft:creeper": "2024-12-11 18:23:48 +0000",
       "minecraft:enderman": "2024-12-11 18:49:29 +0000",
-      "minecraft:zombie": "2024-12-11 18:07:29 +0000"
+      "minecraft:zombie": "2024-12-11 18:07:29 +0000",
+      "minecraft:drowned": "2024-12-11 19:12:12 +0000"
     },
     "done": false
   },
@@ -1453,6 +1454,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 19:10:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 17:36:00 +0000"
@@ -1561,6 +1568,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "vinery:main/forbidden_fruit": {
     "criteria": {
       "apple": "2024-12-11 17:33:59 +0000"
@@ -1615,6 +1628,12 @@
     },
     "done": true
   },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2024-12-11 19:22:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2024-12-11 18:01:43 +0000"
@@ -1648,6 +1667,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-11 17:42:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-11 19:21:28 +0000"
     },
     "done": true
   },
@@ -1687,6 +1712,12 @@
     },
     "done": true
   },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-11 17:34:56 +0000"
@@ -1702,6 +1733,12 @@
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2024-12-11 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 19:15:30 +0000"
     },
     "done": true
   },
@@ -1771,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-11 17:27:53 +0000"
@@ -1801,9 +1844,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2024-12-11 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2024-12-11 19:15:30 +0000"
     },
     "done": true
   },
@@ -1822,6 +1877,12 @@
   "vinery:main/fruits_of_the_field": {
     "criteria": {
       "fruits_of_the_field": "2024-12-11 17:26:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
     },
     "done": true
   },
@@ -1975,6 +2036,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_sea_serpent": {
     "criteria": {
       "killed_fire_dragon": "2024-12-11 18:17:20 +0000"
@@ -2050,6 +2117,18 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-11 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-11 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2024-12-11 19:11:31 +0000"
     },
     "done": true
   },
@@ -2413,6 +2492,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-11 19:22:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-11 17:57:31 +0000"
@@ -2521,6 +2606,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2024-12-11 18:01:43 +0000"
@@ -2536,6 +2627,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-11 17:57:31 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2024-12-11 19:22:43 +0000"
     },
     "done": true
   },
@@ -2617,9 +2714,21 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-11 19:22:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:40:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-11 19:22:43 +0000"
     },
     "done": true
   },
@@ -2662,6 +2771,12 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 17:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-11 19:15:15 +0000"
     },
     "done": true
   },
@@ -2710,6 +2825,12 @@
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2024-12-11 17:34:56 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-11 19:22:33 +0000"
     },
     "done": true
   },
@@ -2773,9 +2894,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-11 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-11 19:22:43 +0000"
     },
     "done": true
   },
@@ -2809,6 +2942,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-11 19:22:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-11 17:40:58 +0000"
@@ -2833,6 +2972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-11 19:15:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-11 17:57:31 +0000"
@@ -2848,6 +2993,12 @@
   "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
     "criteria": {
       "has_diamond": "2024-12-11 17:27:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-11 19:21:47 +0000"
     },
     "done": true
   },
@@ -2887,6 +3038,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 19:12:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-11 18:36:59 +0000"
@@ -2908,6 +3065,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2024-12-11 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-11 19:22:30 +0000"
     },
     "done": true
   },
@@ -2983,6 +3146,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2024-12-11 17:36:41 +0000"
@@ -2992,6 +3161,18 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-11 17:57:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
     },
     "done": true
   },
@@ -3058,6 +3239,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-11 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-11 19:22:43 +0000"
     },
     "done": true
   },
@@ -3156,6 +3343,12 @@
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2024-12-11 17:30:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-11 19:15:30 +0000"
     },
     "done": true
   },

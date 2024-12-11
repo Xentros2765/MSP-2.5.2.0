@@ -687,3 +687,17 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Dec2024 19:11:41.764] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [11Dec2024 19:11:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -4875.500000, 62.500000, -3717.500000]
 [11Dec2024 19:12:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Bone Crusher]
+[11Dec2024 19:14:57.644] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Jiří'/67574, l='ServerLevel[world]', x=-4535.23, y=68.01, z=-4108.49] died: Jiří was slain by Juan123
+[11Dec2024 19:16:31.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Best Friends Forever]
+[11Dec2024 19:21:13.761] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 19:21:13.764] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Dec2024 19:21:28.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Alex's Caves]
+[11Dec2024 19:22:30.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Once Upon a Cave]
+[11Dec2024 19:22:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [It Belongs in a Museum]
+[11Dec2024 19:25:25.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Lorem Ipsum]
+[11Dec2024 19:27:04.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Bone Crusher]
+[11Dec2024 19:28:00.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Knowledge raises the soul]
+[11Dec2024 19:29:34.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> mk
+[11Dec2024 19:29:46.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> una vaca me dio un filete eterno
+[11Dec2024 19:30:23.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
+[11Dec2024 19:30:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
