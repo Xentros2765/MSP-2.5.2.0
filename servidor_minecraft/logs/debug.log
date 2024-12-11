@@ -8648,3 +8648,27 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Dec2024 18:41:07.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -4261.500000, 68.500000, -4201.500000]
 [11Dec2024 18:41:42.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> donde esta
 [11Dec2024 18:42:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> haga misiones hay
+[11Dec2024 18:43:34.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:43:34.687] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 18:48:34.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:48:34.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 18:49:03.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[11Dec2024 18:49:03.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
+[11Dec2024 18:50:43.319] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Luana'/29801, l='ServerLevel[world]', x=-4270.75, y=12.00, z=-4164.15] died, message: 'Luana hit the ground too hard'
+[11Dec2024 18:50:43.322] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Luana'/29801, l='ServerLevel[world]', x=-4270.75, y=12.00, z=-4164.15] died: Luana fell from a high place
+[11Dec2024 18:51:16.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was turned to ice by Ice Dragon
+[11Dec2024 18:51:16.177] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-4293, y:64, z:-4096, dim:minecraft:overworld]
+[11Dec2024 18:51:16.191] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[11Dec2024 18:51:32.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -4292.500000, 64.500000, -4095.500000]
+[11Dec2024 18:51:36.604] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Phoenix'/49576, l='ServerLevel[world]', x=-4265.99, y=66.00, z=-4138.60] died, message: 'Phoenix was turned to ice by Ice Dragon'
+[11Dec2024 18:51:36.609] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Phoenix'/49576, l='ServerLevel[world]', x=-4265.99, y=66.00, z=-4138.60] died: Phoenix was frozen by Ice Dragon
+[11Dec2024 18:51:54.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Chain Death]
+[11Dec2024 18:51:54.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Ice Dragon
+[11Dec2024 18:51:54.724] [Server thread/DEBUG] [tombstone/]: A new grave of the player xentros10000 was created at position [x:-4299, y:62, z:-4100, dim:minecraft:overworld]
+[11Dec2024 18:51:54.747] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[11Dec2024 18:53:34.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:53:34.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 18:53:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -4298.500000, 62.500000, -4100.500000]
+[11Dec2024 18:54:00.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Dragonslayer]
+[11Dec2024 18:58:34.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 18:58:34.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
