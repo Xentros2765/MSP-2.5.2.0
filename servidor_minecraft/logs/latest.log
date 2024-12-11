@@ -711,3 +711,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Dec2024 19:54:37.956] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [11Dec2024 19:54:37.957] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [11Dec2024 20:10:49.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [First Age]
+[11Dec2024 20:26:09.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.358503222143554
+[11Dec2024 20:26:09.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.7877778310812573
+[11Dec2024 20:26:09.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 1.2323312685803103
+[11Dec2024 20:36:30.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [How long's this been here?]
+[11Dec2024 20:42:32.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Magery]
+[11Dec2024 20:48:19.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set the time to 1000]
