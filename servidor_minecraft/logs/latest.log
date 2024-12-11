@@ -667,3 +667,23 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Dec2024 18:51:54.747] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
 [11Dec2024 18:53:35.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -4298.500000, 62.500000, -4100.500000]
 [11Dec2024 18:54:00.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Dragonslayer]
+[11Dec2024 19:07:33.071] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/59894, l='ServerLevel[world]', x=-4463.75, y=80.60, z=-3839.37]
+[11Dec2024 19:08:03.542] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4726, y=92, z=-3751} BlockPos{x=-4726, y=90, z=-3751}
+[11Dec2024 19:08:31.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.84.106.96:55281] logged in with entity id 62046 at (-4276.390282724226, 72.5, -4240.930080710103)
+[11Dec2024 19:08:31.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[11Dec2024 19:08:31.422] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[11Dec2024 19:09:01.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
+[11Dec2024 19:09:01.517] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[11Dec2024 19:09:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Zombie
+[11Dec2024 19:09:15.322] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[11Dec2024 19:09:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> volvi
+[11Dec2024 19:09:46.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> yo ahorita me voy
+[11Dec2024 19:10:14.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> pipipi
+[11Dec2024 19:10:19.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xentros10000> mate un draagon de hielo
+[11Dec2024 19:10:24.334] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Arvid'/60905, l='ServerLevel[world]', x=-4781.54, y=69.00, z=-3669.45] died, message: 'Arvid was slain by xentros10000'
+[11Dec2024 19:10:24.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Neighborhood Brawl]
+[11Dec2024 19:11:31.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has made the advancement [Chompy]
+[11Dec2024 19:11:41.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 was slain by Crocodile
+[11Dec2024 19:11:41.764] [Server thread/INFO] [tombstone/]: The player xentros10000 has successfully been saved
+[11Dec2024 19:11:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [xentros10000: Teleported xentros10000 to -4875.500000, 62.500000, -3717.500000]
+[11Dec2024 19:12:12.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 has reached the goal [Bone Crusher]
