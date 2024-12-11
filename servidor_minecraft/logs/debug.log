@@ -8986,3 +8986,21 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [11Dec2024 19:29:46.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan123> una vaca me dio un filete eterno
 [11Dec2024 19:30:23.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xentros10000 lost connection: Disconnected
 [11Dec2024 19:30:23.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xentros10000 left the game
+[11Dec2024 19:33:34.673] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 19:33:34.696] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 19:36:47.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was turned into KFC by Fire Dragon
+[11Dec2024 19:36:47.820] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-5196, y:71, z:-4247, dim:minecraft:overworld]
+[11Dec2024 19:36:47.843] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[11Dec2024 19:37:06.022] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sofia'/81821, l='ServerLevel[world]', x=-5306.48, y=80.00, z=-4204.82] died, message: 'Sofia burned to death'
+[11Dec2024 19:37:06.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Sofia'/81821, l='ServerLevel[world]', x=-5306.48, y=80.00, z=-4204.82] died: Sofia burned to death
+[11Dec2024 19:38:34.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 19:38:34.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 19:43:34.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 19:43:34.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 19:48:34.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 19:48:34.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Dec2024 19:49:33.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.3125139490202855
+[11Dec2024 19:49:33.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.361849943928064
+[11Dec2024 19:49:33.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zebra (vehicle of Juan123) moved wrongly! 0.6894455528054095
+[11Dec2024 19:53:34.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Dec2024 19:53:34.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

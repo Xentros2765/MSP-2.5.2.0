@@ -347,6 +347,7 @@
       "minecraft:ocean": "2024-12-10 17:13:11 +0000",
       "minecraft:snowy_beach": "2024-12-10 16:12:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-10 17:15:18 +0000",
+      "minecraft:flower_forest": "2024-12-11 19:30:36 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 18:23:39 +0000",
       "minecraft:meadow": "2024-12-10 19:08:08 +0000",
       "minecraft:savanna": "2024-12-10 17:16:26 +0000",
@@ -3625,6 +3626,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-11 19:46:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-11 19:25:35 +0000"
@@ -3634,6 +3641,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-11 19:27:04 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/wooden_brewingstation": {
+    "criteria": {
+      "has_furnace": "2024-12-11 19:46:03 +0000"
     },
     "done": true
   },
