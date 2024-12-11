@@ -402,6 +402,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-11 18:07:57 +0000",
       "minecraft:spider": "2024-12-10 01:19:17 +0000",
+      "minecraft:creeper": "2024-12-11 18:23:48 +0000",
       "minecraft:zombie": "2024-12-11 18:07:29 +0000"
     },
     "done": false
@@ -1529,6 +1530,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_helmet": {
+    "criteria": {
+      "has_item": "2024-12-11 18:18:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-11 17:27:53 +0000"
@@ -1739,6 +1746,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 18:22:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-11 17:31:11 +0000"
@@ -1844,6 +1857,12 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-11 18:01:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
+    "criteria": {
+      "has_sea_serpent_scales_deepblue": "2024-12-11 18:18:36 +0000"
     },
     "done": true
   },
@@ -1982,6 +2001,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:40:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_leggings": {
+    "criteria": {
+      "has_item": "2024-12-11 18:18:36 +0000"
     },
     "done": true
   },
@@ -2435,6 +2460,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 18:23:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-11 17:36:00 +0000"
@@ -2519,6 +2550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-11 18:21:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2024-12-11 18:14:08 +0000"
@@ -2552,6 +2589,12 @@
   "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
     "criteria": {
       "has_wool": "2024-12-11 17:57:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_deepblue_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-11 18:18:36 +0000"
     },
     "done": true
   },
@@ -2645,6 +2688,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2024-12-11 18:18:26 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/spirit_fire/spirit_fire/spirit_attuned_gem": {
     "criteria": {
       "has_diamond": "2024-12-11 17:27:53 +0000"
@@ -2720,6 +2769,18 @@
   "create:recipes/building_blocks/cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:40:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/choose_grave_type": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 18:22:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-11 18:21:31 +0000"
     },
     "done": true
   },
@@ -2813,6 +2874,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_deepblue_boots": {
+    "criteria": {
+      "has_item": "2024-12-11 18:18:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-12-11 18:04:04 +0000"
@@ -2887,6 +2954,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-11 18:22:03 +0000",
       "bread": "2024-12-11 17:26:53 +0000",
       "carrot": "2024-12-11 17:38:45 +0000"
     },
@@ -2904,9 +2972,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2024-12-11 18:18:26 +0000"
+    },
+    "done": true
+  },
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2024-12-11 17:30:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-11 18:22:34 +0000"
     },
     "done": true
   },

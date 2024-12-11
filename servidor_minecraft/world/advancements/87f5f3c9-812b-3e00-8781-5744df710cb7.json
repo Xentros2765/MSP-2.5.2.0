@@ -333,6 +333,7 @@
       "minecraft:deep_ocean": "2024-12-10 17:13:22 +0000",
       "minecraft:frozen_river": "2024-12-10 16:08:58 +0000",
       "minecraft:sunflower_plains": "2024-12-10 17:04:15 +0000",
+      "minecraft:birch_forest": "2024-12-11 18:21:49 +0000",
       "minecraft:beach": "2024-12-10 16:12:34 +0000",
       "minecraft:dark_forest": "2024-12-10 16:03:58 +0000",
       "minecraft:sparse_jungle": "2024-12-10 17:33:12 +0000",
@@ -346,6 +347,7 @@
       "minecraft:ocean": "2024-12-10 17:13:11 +0000",
       "minecraft:snowy_beach": "2024-12-10 16:12:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-10 17:15:18 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-11 18:23:39 +0000",
       "minecraft:meadow": "2024-12-10 19:08:08 +0000",
       "minecraft:savanna": "2024-12-10 17:16:26 +0000",
       "minecraft:plains": "2024-12-10 16:32:45 +0000"
@@ -764,6 +766,7 @@
       "minecraft:skeleton": "2024-12-10 16:23:19 +0000",
       "minecraft:spider": "2024-12-10 16:18:59 +0000",
       "minecraft:creeper": "2024-12-11 17:46:38 +0000",
+      "minecraft:witch": "2024-12-11 18:25:36 +0000",
       "minecraft:husk": "2024-12-10 18:31:50 +0000",
       "minecraft:enderman": "2024-12-10 16:20:05 +0000",
       "minecraft:zombie": "2024-12-10 16:18:27 +0000",
@@ -3343,6 +3346,12 @@
   "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-11 17:40:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-11 18:23:54 +0000"
     },
     "done": true
   },
