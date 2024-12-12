@@ -436,3 +436,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 06:11:17.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Cover Me with Diamonds]
 [12Dec2024 06:30:44.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -8503.500000, 80.500000, -4789.500000]
 [12Dec2024 06:32:23.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Roger'/21890, l='ServerLevel[world]', x=-8500.52, y=65.00, z=-4785.20] died, message: 'Roger was slain by Zombie'
+[12Dec2024 06:48:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Opposites Attract]
+[12Dec2024 06:52:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Where Is The Stone Pen?]
+[12Dec2024 06:59:03.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Drew'/37772, l='ServerLevel[world]', x=-9500.63, y=97.00, z=-4944.24] died, message: 'Drew hit the ground too hard'
