@@ -350,6 +350,7 @@
       "minecraft:ocean": "2024-12-10 17:13:11 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-12 05:38:11 +0000",
       "minecraft:snowy_beach": "2024-12-10 16:12:32 +0000",
+      "minecraft:windswept_savanna": "2024-12-12 21:22:51 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-10 17:15:18 +0000",
       "minecraft:flower_forest": "2024-12-11 19:30:36 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-11 18:23:39 +0000",
@@ -403,6 +404,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-12-12 21:28:43 +0000",
       "beef": "2024-12-10 16:47:37 +0000",
       "porkchop": "2024-12-11 19:55:26 +0000",
       "bread": "2024-12-10 16:09:05 +0000",
@@ -4945,9 +4947,51 @@
     },
     "done": true
   },
+  "occultism:recipes/spirit_fire/spirit_fire/awakened_feather": {
+    "criteria": {
+      "has_feather": "2024-12-12 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-12 21:27:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2024-12-12 21:31:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2024-12-12 21:31:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2024-12-12 21:31:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2024-12-12 21:13:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 21:31:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 21:31:17 +0000"
     },
     "done": true
   },

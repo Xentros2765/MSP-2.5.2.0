@@ -443,3 +443,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 21:07:43.800] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
 [12Dec2024 21:07:43.801] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
 [12Dec2024 21:08:28.840] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Dec2024 21:30:01.959] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Li-Dong'/36639, l='ServerLevel[world]', x=-15078.99, y=64.00, z=-5303.38] died, message: 'Li-Dong was slain by Fire Dragon'
+[12Dec2024 21:30:01.964] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Li-Dong'/36639, l='ServerLevel[world]', x=-15078.99, y=64.00, z=-5303.38] died: Li-Dong was slain by Fire Dragon
+[12Dec2024 21:42:00.723] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['He-Ping'/37332, l='ServerLevel[world]', x=-15042.11, y=72.00, z=-5263.89] died, message: 'He-Ping was slain by Zombie'
