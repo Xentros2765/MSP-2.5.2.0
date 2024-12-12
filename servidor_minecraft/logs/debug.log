@@ -8283,3 +8283,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 18:53:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Into Fire]
 [12Dec2024 18:56:33.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 18:56:33.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:01:33.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 19:01:33.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:02:21.224] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Dec2024 19:02:28.383] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Dec2024 19:02:37.133] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[12Dec2024 19:06:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was shot by Dread Lich
+[12Dec2024 19:06:28.967] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-10624, y:85, z:-5053, dim:minecraft:overworld]
+[12Dec2024 19:06:29.036] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[12Dec2024 19:06:33.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 19:06:33.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 19:07:55.124] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [d734dcb8-d224-45fc-af84-be91ef31f307]
+[12Dec2024 19:08:01.811] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [d734dcb8-d224-45fc-af84-be91ef31f307]
+[12Dec2024 19:08:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Rude Awakening]
+[12Dec2024 19:08:20.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:chain_creeper 1: [3099f0f4-bdb3-46b4-91a3-e0ff1b18c592]
+[12Dec2024 19:10:24.710] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 19:10:24.711] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[12Dec2024 19:10:24.711] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot

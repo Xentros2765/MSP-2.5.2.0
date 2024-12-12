@@ -4728,9 +4728,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-12 18:21:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 19:01:49 +0000"
     },
     "done": true
   },
@@ -4776,6 +4788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_legendary": {
     "criteria": {
       "requirement": "2024-12-12 18:40:20 +0000"
@@ -4806,6 +4824,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
     "criteria": {
       "has_sapphire_gem": "2024-12-12 18:38:02 +0000"
@@ -4821,6 +4845,12 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-12 18:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 19:01:49 +0000"
     },
     "done": true
   },
