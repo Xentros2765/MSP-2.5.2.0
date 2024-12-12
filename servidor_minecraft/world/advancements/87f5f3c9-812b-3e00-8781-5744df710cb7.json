@@ -4657,33 +4657,9 @@
     },
     "done": true
   },
-  "uniquedungeons:uniquedungeons": {
-    "criteria": {
-      "requirement": "2024-12-12 19:30:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-12 18:01:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_boots": {
-    "criteria": {
-      "has_item": "2024-12-12 18:21:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2024-12-12 18:21:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-12 18:21:08 +0000"
     },
     "done": true
   },
@@ -4693,33 +4669,21 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2024-12-12 18:53:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2024-12-12 18:21:07 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
       "killed_ice_dragon": "2024-12-12 18:20:35 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_silver_leggings": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "has_item": "2024-12-12 18:21:08 +0000"
+      "has_item": "2024-12-12 18:21:07 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/skull_to_bone_meal": {
+  "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
-      "has_item": "2024-12-12 18:21:13 +0000"
+      "has_item": "2024-12-12 18:21:07 +0000"
     },
     "done": true
   },
@@ -4735,21 +4699,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-12 19:01:49 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2024-12-12 18:21:07 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-12 19:01:49 +0000"
     },
     "done": true
   },
@@ -4759,39 +4711,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/sweet_berry_cookie": {
-    "criteria": {
-      "has_sweet_berries": "2024-12-12 19:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-12 19:16:18 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-12 18:21:07 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_silver_helmet": {
-    "criteria": {
-      "has_item": "2024-12-12 18:21:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2024-12-12 18:54:46 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-12 18:53:38 +0000"
     },
     "done": true
   },
@@ -4807,75 +4729,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-12 19:01:49 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_legendary": {
-    "criteria": {
-      "requirement": "2024-12-12 18:40:20 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2024-12-12 19:08:12 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2024-12-12 18:38:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
-    "criteria": {
-      "has_dune_armor_trim_smithing_template": "2024-12-12 19:16:18 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_stone": {
-    "criteria": {
-      "has_item": "2024-12-12 19:08:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
-    "criteria": {
-      "has_dragonscales_silver": "2024-12-12 18:21:08 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2024-12-12 18:21:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2024-12-12 18:53:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2024-12-12 19:01:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dread_torch": {
-    "criteria": {
-      "has_item": "2024-12-12 19:08:31 +0000"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
-    "criteria": {
-      "has_sapphire_gem": "2024-12-12 18:38:02 +0000"
     },
     "done": true
   },
@@ -4885,15 +4741,81 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2024-12-12 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-12 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2024-12-12 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2024-12-12 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2024-12-12 18:21:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2024-12-12 18:21:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-12 18:21:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
-      "has_moss_block": "2024-12-12 19:01:49 +0000"
+      "has_sapphire_gem": "2024-12-12 18:38:02 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-12 18:38:02 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2024-12-12 18:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-12 18:53:38 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 18:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 18:53:38 +0000"
     },
     "done": true
   },
@@ -4903,9 +4825,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-12 18:54:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2024-12-12 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-12 19:08:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-12 19:08:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-12 19:08:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-12 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-12-12 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "uniquedungeons:uniquedungeons": {
+    "criteria": {
+      "requirement": "2024-12-12 19:30:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-12 19:31:04 +0000"
     },
     "done": true
   },
