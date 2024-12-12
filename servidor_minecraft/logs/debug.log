@@ -8327,3 +8327,20 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 06:54:07.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 06:54:07.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 06:59:03.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Drew'/37772, l='ServerLevel[world]', x=-9500.63, y=97.00, z=-4944.24] died, message: 'Drew hit the ground too hard'
+[12Dec2024 06:59:07.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 06:59:07.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 06:59:14.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Calvin'/37992, l='ServerLevel[world]', x=-9477.99, y=122.00, z=-4942.75] died, message: 'Calvin was frozen by Ice Dragon'
+[12Dec2024 07:00:24.599] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:firefly_swarm 1: [81db0bd3-1f13-442f-90fd-a4709db28cf1]
+[12Dec2024 07:00:26.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rosalie'/37497, l='ServerLevel[world]', x=-9456.81, y=117.00, z=-5006.67] died, message: 'Rosalie was frozen by Ice Dragon'
+[12Dec2024 07:00:27.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Renee'/37788, l='ServerLevel[world]', x=-9457.01, y=117.50, z=-5007.85] died, message: 'Renee was turned to ice by Ice Dragon'
+[12Dec2024 07:00:47.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[12Dec2024 07:00:47.390] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-9449, y:119, z:-5021, dim:minecraft:overworld]
+[12Dec2024 07:00:47.405] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[12Dec2024 07:00:52.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carol'/37448, l='ServerLevel[world]', x=-9435.12, y=119.00, z=-5025.33] died, message: 'Carol was turned to ice by Ice Dragon'
+[12Dec2024 07:04:07.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 07:04:07.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 07:08:12.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Herc was on a Roll!]
+[12Dec2024 07:08:31.107] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
+[12Dec2024 07:08:52.217] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
+[12Dec2024 07:09:07.294] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 07:09:07.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

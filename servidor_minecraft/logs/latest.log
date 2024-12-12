@@ -439,3 +439,12 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 06:48:41.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Opposites Attract]
 [12Dec2024 06:52:16.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Where Is The Stone Pen?]
 [12Dec2024 06:59:03.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Drew'/37772, l='ServerLevel[world]', x=-9500.63, y=97.00, z=-4944.24] died, message: 'Drew hit the ground too hard'
+[12Dec2024 06:59:14.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Calvin'/37992, l='ServerLevel[world]', x=-9477.99, y=122.00, z=-4942.75] died, message: 'Calvin was frozen by Ice Dragon'
+[12Dec2024 07:00:26.678] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rosalie'/37497, l='ServerLevel[world]', x=-9456.81, y=117.00, z=-5006.67] died, message: 'Rosalie was frozen by Ice Dragon'
+[12Dec2024 07:00:27.180] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Renee'/37788, l='ServerLevel[world]', x=-9457.01, y=117.50, z=-5007.85] died, message: 'Renee was turned to ice by Ice Dragon'
+[12Dec2024 07:00:47.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[12Dec2024 07:00:47.405] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[12Dec2024 07:00:52.381] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Carol'/37448, l='ServerLevel[world]', x=-9435.12, y=119.00, z=-5025.33] died, message: 'Carol was turned to ice by Ice Dragon'
+[12Dec2024 07:08:12.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Herc was on a Roll!]
+[12Dec2024 07:08:31.107] [Worker-Main-43/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
+[12Dec2024 07:08:52.217] [Worker-Main-45/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
