@@ -770,13 +770,16 @@
     "criteria": {
       "minecraft:pillager": "2024-12-10 19:06:26 +0000",
       "minecraft:skeleton": "2024-12-10 16:23:19 +0000",
+      "minecraft:ravager": "2024-12-12 18:47:19 +0000",
       "minecraft:vindicator": "2024-12-12 05:45:43 +0000",
       "minecraft:spider": "2024-12-10 16:18:59 +0000",
       "minecraft:creeper": "2024-12-11 17:46:38 +0000",
+      "minecraft:evoker": "2024-12-12 18:47:38 +0000",
       "minecraft:witch": "2024-12-11 18:25:36 +0000",
       "minecraft:husk": "2024-12-10 18:31:50 +0000",
       "minecraft:cave_spider": "2024-12-11 20:12:12 +0000",
       "minecraft:enderman": "2024-12-10 16:20:05 +0000",
+      "minecraft:vex": "2024-12-12 18:48:06 +0000",
       "minecraft:zombie": "2024-12-10 16:18:27 +0000",
       "minecraft:drowned": "2024-12-10 16:19:45 +0000"
     },
@@ -4683,6 +4686,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-12 18:53:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2024-12-12 18:21:07 +0000"
@@ -4743,6 +4752,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2024-12-12 18:54:46 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/blaze_powder_from_rod": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 18:53:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2024-12-12 18:21:07 +0000"
@@ -4779,6 +4800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 18:53:38 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/sapphire_dust_from_gem": {
     "criteria": {
       "has_sapphire_gem": "2024-12-12 18:38:02 +0000"
@@ -4794,6 +4821,18 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2024-12-12 18:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-12 18:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2024-12-12 18:54:46 +0000"
     },
     "done": true
   },

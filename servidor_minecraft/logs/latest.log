@@ -433,3 +433,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 18:20:05.829] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [12Dec2024 18:20:35.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Dragonslayer]
 [12Dec2024 18:40:20.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Premium!]
+[12Dec2024 18:53:38.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Into Fire]
