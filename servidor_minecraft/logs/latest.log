@@ -438,3 +438,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 20:57:50.725] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
 [12Dec2024 20:57:50.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game
 [12Dec2024 20:57:50.815] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Dec2024 21:07:43.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan123[/100.84.106.96:51046] logged in with entity id 19517 at (-13910.5, 79.076, -5001.5)
+[12Dec2024 21:07:43.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 joined the game
+[12Dec2024 21:07:43.800] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[12Dec2024 21:07:43.801] [Server thread/INFO] [Jade/]: Syncing config to Juan123 (87f5f3c9-812b-3e00-8781-5744df710cb7)
+[12Dec2024 21:08:28.840] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 

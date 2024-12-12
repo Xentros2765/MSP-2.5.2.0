@@ -4909,27 +4909,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:warped_forest": "2024-12-12 20:42:55 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/versatility": {
-    "criteria": {
-      "coded_trigger": "2024-12-12 20:46:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-12 20:42:53 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2024-12-12 20:45:50 +0000"
     },
     "done": true
   },
@@ -4939,9 +4921,27 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2024-12-12 20:42:55 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2024-12-12 20:45:50 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2024-12-12 20:45:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/versatility": {
+    "criteria": {
+      "coded_trigger": "2024-12-12 20:46:32 +0000"
     },
     "done": true
   },
