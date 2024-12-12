@@ -425,3 +425,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 05:36:54.671] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [12Dec2024 05:39:39.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 moved too quickly! -5.866865429797144,0.0,8.193400454496441
 [12Dec2024 05:45:56.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Tools of the Trade]
+[12Dec2024 05:48:30.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Claude'/8149, l='ServerLevel[world]', x=-8049.75, y=69.88, z=-5023.10] died, message: 'Claude was shot by Pillager'
+[12Dec2024 05:51:10.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bob'/8150, l='ServerLevel[world]', x=-8049.56, y=71.00, z=-5011.34] died, message: 'Bob was shot by Pillager'
+[12Dec2024 05:53:26.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Quaint Scribe]
+[12Dec2024 05:54:58.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was eviscerated by Archevoker's vexes
+[12Dec2024 05:54:58.417] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[12Dec2024 05:55:37.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Dáša'/12755, l='ServerLevel[world]', x=-8119.03, y=74.00, z=-5071.56] died: Dáša burned to death

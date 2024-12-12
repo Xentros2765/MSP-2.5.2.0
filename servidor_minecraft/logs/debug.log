@@ -8281,3 +8281,14 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 05:44:07.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Dec2024 05:44:07.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Dec2024 05:45:56.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Tools of the Trade]
+[12Dec2024 05:48:30.530] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Claude'/8149, l='ServerLevel[world]', x=-8049.75, y=69.88, z=-5023.10] died, message: 'Claude was shot by Pillager'
+[12Dec2024 05:49:07.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:49:07.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:51:10.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bob'/8150, l='ServerLevel[world]', x=-8049.56, y=71.00, z=-5011.34] died, message: 'Bob was shot by Pillager'
+[12Dec2024 05:53:26.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [Quaint Scribe]
+[12Dec2024 05:54:07.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Dec2024 05:54:07.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Dec2024 05:54:58.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was eviscerated by Archevoker's vexes
+[12Dec2024 05:54:58.401] [Server thread/DEBUG] [tombstone/]: A new grave of the player Juan123 was created at position [x:-8053, y:93, z:-5013, dim:minecraft:overworld]
+[12Dec2024 05:54:58.417] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[12Dec2024 05:55:37.474] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Dáša'/12755, l='ServerLevel[world]', x=-8119.03, y=74.00, z=-5071.56] died: Dáša burned to death
