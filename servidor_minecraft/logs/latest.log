@@ -437,3 +437,11 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [12Dec2024 19:06:28.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was shot by Dread Lich
 [12Dec2024 19:06:29.036] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
 [12Dec2024 19:08:12.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Rude Awakening]
+[12Dec2024 19:23:10.824] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 19:23:10.825] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[12Dec2024 19:32:53.457] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Melanie'/40404, l='ServerLevel[world]', x=-11702.15, y=23.00, z=-5710.76] died, message: 'Melanie burned to death'
+[12Dec2024 19:35:09.885] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-756, -361], pos: MutableBlockPos{x=-12087, y=24, z=-5776}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[12Dec2024 19:35:09.886] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-756, -361], pos: MutableBlockPos{x=-12085, y=14, z=-5776}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[12Dec2024 19:35:09.887] [Worker-Main-10/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-756, -361], pos: MutableBlockPos{x=-12085, y=15, z=-5776}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[12Dec2024 19:37:39.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan123 lost connection: Disconnected
+[12Dec2024 19:37:39.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 left the game

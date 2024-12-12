@@ -779,6 +779,7 @@
       "minecraft:husk": "2024-12-10 18:31:50 +0000",
       "minecraft:cave_spider": "2024-12-11 20:12:12 +0000",
       "minecraft:enderman": "2024-12-10 16:20:05 +0000",
+      "minecraft:stray": "2024-12-12 19:10:24 +0000",
       "minecraft:vex": "2024-12-12 18:48:06 +0000",
       "minecraft:zombie": "2024-12-10 16:18:27 +0000",
       "minecraft:drowned": "2024-12-10 16:19:45 +0000"
@@ -4656,6 +4657,12 @@
     },
     "done": true
   },
+  "uniquedungeons:uniquedungeons": {
+    "criteria": {
+      "requirement": "2024-12-12 19:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-12 18:01:05 +0000"
@@ -4752,6 +4759,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-12 19:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-12 19:16:18 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2024-12-12 18:21:07 +0000"
@@ -4800,9 +4819,27 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2024-12-12 19:08:12 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2024-12-12 18:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2024-12-12 19:16:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-12 19:08:31 +0000"
     },
     "done": true
   },
@@ -4827,6 +4864,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-12 19:01:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-12 19:08:31 +0000"
     },
     "done": true
   },
