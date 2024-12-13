@@ -332,6 +332,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-12 05:37:27 +0000",
       "minecraft:taiga": "2024-12-10 16:07:08 +0000",
       "minecraft:deep_ocean": "2024-12-10 17:13:22 +0000",
+      "minecraft:eroded_badlands": "2024-12-13 04:52:48 +0000",
       "minecraft:frozen_river": "2024-12-10 16:08:58 +0000",
       "minecraft:sunflower_plains": "2024-12-10 17:04:15 +0000",
       "minecraft:cherry_grove": "2024-12-12 06:48:22 +0000",
@@ -5308,9 +5309,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-13 05:12:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2024-12-13 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-13 05:25:30 +0000"
     },
     "done": true
   },
@@ -5359,6 +5372,12 @@
   "create:recipes/building_blocks/crafting/kinetics/black_seat": {
     "criteria": {
       "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/deathworm_egg": {
+    "criteria": {
+      "egg": "2024-12-13 04:51:27 +0000"
     },
     "done": true
   },
