@@ -430,3 +430,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 03:26:55.295] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Dec2024 03:26:55.296] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Dec2024 03:37:28.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [They Have a Cave Troll!]
+[13Dec2024 03:49:18.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -13759.500000, 79.500000, -6149.500000]
+[13Dec2024 03:55:03.648] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
+[13Dec2024 03:55:19.629] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
+[13Dec2024 03:58:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We Just Want our Hat Back]
+[13Dec2024 03:58:14.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Bone to Pick]
+[13Dec2024 04:02:50.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Xaver'/32491, l='ServerLevel[world]', x=-13320.30, y=9.13, z=-7074.70] died, message: 'Xaver drowned'
