@@ -427,3 +427,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 03:22:10.376] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
 [13Dec2024 03:22:15.661] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-52, z=-90}
 [13Dec2024 03:22:20.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
+[13Dec2024 03:26:55.295] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 03:26:55.296] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Dec2024 03:37:28.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [They Have a Cave Troll!]
