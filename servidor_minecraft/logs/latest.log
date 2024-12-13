@@ -468,3 +468,6 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 05:17:58.798] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Dec2024 05:25:07.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tu'/113717, l='ServerLevel[world]', x=-17837.73, y=67.00, z=-9634.20] died, message: 'Tu was slain by Ravager'
 [13Dec2024 05:25:30.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has completed the challenge [Hero of the Village]
+[13Dec2024 05:30:50.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gulya'/122721, l='ServerLevel[world]', x=-17958.72, y=3.19, z=-10332.28] died, message: 'Gulya drowned'
+[13Dec2024 05:31:52.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [One with Nature]
+[13Dec2024 05:34:44.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Set own game mode to Creative Mode]
