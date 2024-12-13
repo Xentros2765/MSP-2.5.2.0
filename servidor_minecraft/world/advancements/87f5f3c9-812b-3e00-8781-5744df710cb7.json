@@ -347,7 +347,10 @@
       "minecraft:swamp": "2024-12-11 17:54:10 +0000",
       "minecraft:cold_ocean": "2024-12-13 03:59:04 +0000",
       "minecraft:forest": "2024-12-10 16:31:47 +0000",
+      "minecraft:lush_caves": "2024-12-13 04:02:54 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-13 04:00:58 +0000",
       "minecraft:frozen_ocean": "2024-12-13 03:56:15 +0000",
+      "minecraft:desert": "2024-12-13 04:45:55 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-13 03:57:21 +0000",
       "minecraft:jungle": "2024-12-10 17:31:51 +0000",
       "minecraft:ocean": "2024-12-10 17:13:11 +0000",
@@ -5131,15 +5134,201 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2024-12-13 04:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2024-12-13 04:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-13 04:40:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 04:30:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2024-12-13 03:37:30 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-13 04:48:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-13 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-13 04:47:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2024-12-13 03:33:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-13 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "occultism:recipes/misc/crafting/brush": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "white_taiga_grape_seeds": "2024-12-13 04:07:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-13 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-13 04:47:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2024-12-13 04:34:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 04:30:22 +0000"
     },
     "done": true
   },
@@ -5161,15 +5350,93 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
   "occultism:recipes/crushing/crushing/diamond_dust": {
     "criteria": {
       "has_diamond": "2024-12-13 03:33:24 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-13 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_boots": {
+    "criteria": {
+      "has_brown_wool": "2024-12-13 04:34:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2024-12-13 03:58:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-13 04:29:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-13 04:30:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-13 04:28:26 +0000"
     },
     "done": true
   },

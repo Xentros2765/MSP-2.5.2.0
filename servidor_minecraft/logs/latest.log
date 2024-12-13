@@ -436,3 +436,25 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'forge:m
 [13Dec2024 03:58:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [We Just Want our Hat Back]
 [13Dec2024 03:58:14.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [A Bone to Pick]
 [13Dec2024 04:02:50.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Xaver'/32491, l='ServerLevel[world]', x=-13320.30, y=9.13, z=-7074.70] died, message: 'Xaver drowned'
+[13Dec2024 04:05:19.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juan123: Teleported Juan123 to -13278.500000, 111.500000, -7266.500000]
+[13Dec2024 04:06:20.263] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Altay'/35821, l='ServerLevel[world]', x=-13058.29, y=42.13, z=-7348.17] died, message: 'Altay drowned'
+[13Dec2024 04:07:49.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Wild Harvest]
+[13Dec2024 04:14:49.019] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Heimo'/43794, l='ServerLevel[world]', x=-13499.22, y=73.50, z=-7996.77] died, message: 'Heimo was pricked to death'
+[13Dec2024 04:16:57.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 was slain by Ice Dragon
+[13Dec2024 04:16:57.936] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[13Dec2024 04:17:11.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ismo'/44270, l='ServerLevel[world]', x=-13539.15, y=65.50, z=-8028.45] died, message: 'Ismo walked into a cactus whilst trying to escape Ice Dragon'
+[13Dec2024 04:27:27.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 went off with a bang
+[13Dec2024 04:27:27.114] [Server thread/INFO] [tombstone/]: The player Juan123 has successfully been saved
+[13Dec2024 04:29:45.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has reached the goal [The long arm of the law]
+[13Dec2024 04:40:13.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Neighborhood Brawl]
+[13Dec2024 04:46:38.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:46:39.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:46:40.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:46:45.937] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:46:54.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:46:55.236] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:46:55.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:47:02.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Dec2024 04:47:42.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [The Desert Swimmers]
+[13Dec2024 04:48:17.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Voluntary Exile]
+[13Dec2024 04:51:27.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan123 has made the advancement [Paul Atreides]
